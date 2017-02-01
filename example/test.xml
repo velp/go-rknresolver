@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reg:register updateTime="2017-01-31T00:30:01+03:00" formatVersion="2.0" xmlns:reg="http://rsoc.ru" xmlns:tns="http://rsoc.ru">
+<content includeTime="2012-11-18T15:17:51" urgencyType="" entryType="1" id="347">
+  <ip>109.69.58.58</ip>
+  <decision org="Роскомнадзор" number="101-РИ" date="2012-11-10" />
+  <domain>video-one.com</domain>
+  <url><![CDATA[http://video-one.com/popular/Teen/1.html]]></url>
+</content>
+<content includeTime="2012-11-24T15:34:17" urgencyType="" entryType="1" id="656">
+  <ip>94.76.213.163</ip>
+  <decision org="ФСКН" number="2/1/11-168" date="2012-11-14" />
+  <domain>cannabay.org</domain>
+  <url><![CDATA[http://cannabay.org/]]></url>
+</content>
+<content includeTime="2013-01-09T19:20:44" urgencyType="" entryType="1" id="958">
+  <ip>31.193.141.201</ip>
+  <decision org="ФСКН" number="2/1/11-345" date="2012-12-04" />
+  <domain>eoliaseeds.com</domain>
+  <url><![CDATA[http://eoliaseeds.com]]></url>
+</content>
+<content includeTime="2013-08-15T12:51:07" urgencyType="" entryType="1" id="2992">
+  <ip>192.188.242.125</ip>
+  <decision org="Роспотребнадзор" number="617" date="2013-01-17" />
+  <domain>lajli.gau.hu</domain>
+  <url><![CDATA[http://lajli.gau.hu/~xx/suicide.htm]]></url>
+</content>
+<content includeTime="2014-02-25T17:59:26" urgencyType="" entryType="1" id="3681">
+  <ip>209.237.150.20</ip>
+  <decision org="Роспотребнадзор" number="660" date="2013-01-23" />
+  <domain>1226608.sites.myregisteredsite.com</domain>
+  <url><![CDATA[http://1226608.sites.myregisteredsite.com/seantheartist/archived/01032012/0204-full/F04D-ScienceOfHanging-1.html]]></url>
+</content>
+<content includeTime="2013-02-06T01:06:50" urgencyType="" entryType="1" id="4009">
+  <ip>31.171.200.113</ip>
+  <decision org="ФСКН" number="2/1/11-2115" date="2013-01-25" />
+  <domain>www.elephantos.com</domain>
+  <url><![CDATA[http://www.elephantos.com/ru/smartshop/psihodeliki]]></url>
+</content>
+<content includeTime="2014-02-12T14:51:33" urgencyType="" entryType="1" id="4948">
+  <ip>31.171.200.113</ip>
+  <decision org="ФСКН" number="2/1/11-2320" date="2013-02-05" />
+  <domain>www.elephantos.com</domain>
+  <url><![CDATA[http://www.elephantos.com/ru/smartshop/psihodeliki/kaktus-pejot-2-3-gorshka-.html]]></url>
+</content>
+<content includeTime="2013-11-15T17:00:02" urgencyType="" entryType="1" id="4961">
+  <ip>31.171.200.113</ip>
+  <decision org="ФСКН" number="2/1/11-2319" date="2013-02-05" />
+  <domain>www.elephantos.com</domain>
+  <url><![CDATA[http://www.elephantos.com/ru/smartshop/kuritelnye-smesi]]></url>
+</content>
+<content includeTime="2013-02-23T19:05:50" urgencyType="" entryType="1" id="5041">
+  <ip>31.171.200.113</ip>
+  <decision org="ФСКН" number="2/1/11-2347" date="2013-02-06" />
+  <domain>www.elephantos.com</domain>
+  <url><![CDATA[http://www.elephantos.com/ru/smartshop/travjanye-jekstazi]]></url>
+</content>
+<content includeTime="2013-11-15T17:00:00" urgencyType="" entryType="1" id="5064">
+  <ip>31.171.200.113</ip>
+  <decision org="ФСКН" number="2/1/11-2331" date="2013-02-06" />
+  <domain>www.elephantos.com</domain>
+  <url><![CDATA[http://www.elephantos.com/ru/smartshop/kuritelnye-smesi/salvia-sage-extract.html]]></url>
+</content>
+<content includeTime="2014-02-12T14:51:40" urgencyType="" entryType="1" id="5065">
+  <ip>8.8.8.8</ip>
+  <decision org="ФСКН" number="2/1/11-2332" date="2013-02-06" />
+  <domain>www.elephantos.com</domain>
+  <url><![CDATA[http://www.elephantos.com/ru/smartshop/psihodeliki/malaja-gavajskaja-drevovidnaja-roza.html]]></url>
+</content>
+<content includeTime="2014-02-17T19:20:19" urgencyType="" entryType="1" id="5081">
+  <ip>148.251.188.47</ip>
+  <decision org="ФСКН" number="2/1/11-2350" date="2013-02-06" />
+  <domain>www.weedy.be</domain>
+  <url><![CDATA[http://www.weedy.be/]]></url>
+</content>
+<content includeTime="2013-02-23T16:18:07" urgencyType="" entryType="1" id="6482">
+  <ip>209.237.226.93</ip>
+  <decision org="ФСКН" number="2/1/11-2527" date="2013-02-14" />
+  <domain>www.erowid.org</domain>
+  <url><![CDATA[http://www.erowid.org/lang/ru/dxm_faq/general_info.shtml]]></url>
+</content>
+<content includeTime="2013-02-23T14:53:45" urgencyType="" entryType="1" id="7143">
+  <ip>104.25.225.100</ip>
+  <ip>104.25.226.100</ip>
+  <decision org="ФСКН" number="2/1/11-2611" date="2013-02-17" />
+  <domain>www.royalqueenseeds.ru</domain>
+  <url><![CDATA[http://www.royalqueenseeds.ru/]]></url>
+</content>
+<content includeTime="2013-03-02T16:35:20" urgencyType="" entryType="1" id="7331">
+  <ip>188.166.73.158</ip>
+  <decision org="ФСКН" number="2/1/11-2681" date="2013-02-19" />
+  <domain>psyplants.org</domain>
+  <domain>psyplants2.org</domain>
+  <url><![CDATA[http://psyplants.org/ehjjforetiki/marikhuana/vyrashhivanie/]]></url>
+</content>
+<content includeTime="2013-03-15T19:13:01" urgencyType="" entryType="1" id="7989">
+  <ip>89.184.69.108</ip>
+  <decision org="ФСКН" number="2/1/11-3052" date="2013-02-25" />
+</content>
+</reg:register>
